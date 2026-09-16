@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yono-app-reading-guide.vercel.app/sitemap.xml
+Sitemap: https://morexnoz.github.io/yono-app-reading-guide/sitemap.xml
